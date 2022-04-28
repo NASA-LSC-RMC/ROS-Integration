@@ -91,7 +91,7 @@ Status from Rasp -> RoboRIO could include stuff like:
 Related Resources:
   * https://www.chiefdelphi.com/t/controlling-a-roborio-through-a-raspberry-pi-a-wifi-router/392841
   * https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
-  * ![clipboard.png](inkdrop://file:6QuOgVrNj)
+  * ![alt text](https://imgur.com/a/D1wnLnD)
 
 ### Implement Target Tracking
 
