@@ -88,6 +88,11 @@ Status from Rasp -> RoboRIO could include stuff like:
 - Navigation statuses
 - General ROS Status
 
+Related Resources:
+  * https://www.chiefdelphi.com/t/controlling-a-roborio-through-a-raspberry-pi-a-wifi-router/392841
+  * https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
+  * ![clipboard.png](inkdrop://file:6QuOgVrNj)
+
 ### Implement Target Tracking
 
 A single ROS node can take any camera data and perform image processing. This can be written and configured however the user likes and can output targeting data. A single node can be run, or multiple nodes can be doing processing on the same camera feed.
@@ -140,6 +145,9 @@ Machine learning is a more advanced topic:
 - https://www.youtube.com/watch?v=aircAruvnKk
 - https://developer.nvidia.com/embedded/twodaystoademo
 - https://github.com/dusty-nv/ros_deep_learning
+
+
+
 
 # M. S: Documentation + More 
 
